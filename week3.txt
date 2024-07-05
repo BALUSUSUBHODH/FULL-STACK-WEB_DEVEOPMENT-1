@@ -1,0 +1,37 @@
+Problem-1: Find the expected number of passes, comparisons and exchanges
+for bubble results with the actual number of operations when the given
+sequence is as follows: 7, 1, 3, 4, 10, 9, 8, 6, 5, 2.
+
+Problem-2: Here is an array of ten integers: 5 3 8 9 1 7 0 2 6 4
+Suppose we partition this array using quicksort&#39;s partition function and using 5 for the
+pivot. Draw the resulting array after the partition finishes.
+
+Problem-3: Sort the sequence 3, 1, 4, 5, 9, 2, 6, 5 using insertion sort.
+
+Problem-4:.
+Search element: 57
+
+Problem-5: Given an array consisting of integers. The main task is to find the largest sub-
+array in the given array, Which is sorted . But ,if the given array is not sorted , our task is to
+divide the array into halves(exactly from between) and check the corresponding two halves
+for sorting. We aim to find the length of the largest sorted array possible from the given
+unsorted array with the condition mentioned. Example: 12,56,8,9,34,-1,0,4,32,8.
+
+Problem-6: Given an array A[0,……,n-1] of n numbers containing the repetition of some
+number. Give an algorithm for checking whether there are repeated elements are not. Assume
+that we are not allowed to use additional space(we can use a few temporary variables,O(1)
+storage.
+
+Problem-7: Given an array A[0,……,n-1], where each element of the array represents a vote
+in the election. Assume that each vote is given as an integer representing the ID of the chosen
+candidate. Give an algorithm for determining who wins the election. Example :A[10, 12, 1,
+14, 6, 5, 8, 15, 3, 9, 7, 4, 11, 13, 2].
+
+Problem-8: Develop an algorithm for Quick Sort and trace the steps for sorting the following
+list, and derive the time complexity. 65, 70, 75, 80, 85, 60, 55, 50, 45.
+
+Problem-9: Sort the elements 77,49,25,12,9,33,56,81 use the below sorting techniques
+(i) Insertion sort (ii) selection sort (iii) bubble sort
+
+Problem-10: Construct the Selection Sort and trace the iterations for sorting the following
+list 136, 487, 358, 469, 570, 247, 598, 639, 205, 609.

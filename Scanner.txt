@@ -1,0 +1,10 @@
+Scanner
+Scanner S1 = new Scanner(System.in);
+Methods
+nextBoolean()  -Used for reading Bollean value
+nextByte()     -Used for reading Byte value
+nextdouble()   -Used for reading Double value
+nextInt()      -Used for reading Int value
+nextLine()     -Used for reading Line value
+nextLong()     -Used for reading Long value
+nextShort()    -Used for reading Short value

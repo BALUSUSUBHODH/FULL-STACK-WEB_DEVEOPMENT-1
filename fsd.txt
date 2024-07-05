@@ -1,0 +1,9 @@
+Name : text                                                                                  text
+DOB: date                                                                                    date
+Gender : Male,Female,Others                                                                  radio
+Qualification: SSC,INTER,DIPLOMA,GRADUATION,POST GRADUATION                                dropdown list
+languages known:Telugu,English,Hindi
+                 {file}
+                                 email
+                                 Number
+                                 textarea
